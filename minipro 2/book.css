@@ -1,0 +1,66 @@
+body{
+    background:url(wp2120666.jpg) no-repeat;
+    background-size: cover;
+}
+.form-control{
+    /* background: transparent; */
+    border: white 2px solid;
+    position: relative;
+    bottom: -200px;
+    left:150px;
+    opacity: 0.6;
+}
+
+button{
+    position: relative;
+    left: 590px;
+    top: 200px;
+}
+
+.h44{
+    position: relative;
+    top:150px;
+    left:86px;
+    color: white;
+}
+
+.img{
+    position: absolute;
+    bottom: 10px;
+    left: 25px;
+    height: 29px;
+}
+
+.navbar-brand{
+    padding-left: 22px;
+}
+
+.avail{
+    background:url(photo-1494515843206-f3117d3f51b7.jpg)no-repeat ;
+    background-size: cover;
+}
+
+.passenger{
+ padding-left: 200px;
+ padding-right: 200px; 
+ position: relative;
+ left: 300px;
+  
+}
+
+.driver{
+    padding-left: 185px;
+    padding-right: 185px;    
+}
+
+
+
+
+.btn-lg:hover{
+    background: lightgray;
+    border: 2px solid gray;
+}
+
+h6{
+    color: white;
+}

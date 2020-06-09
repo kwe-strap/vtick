@@ -1,0 +1,35 @@
+body{
+    background:dodgerblue;
+   
+    text-transform: uppercase;
+}
+
+hr{
+    border-bottom:none;
+}
+
+td{
+    font-size: 15px;
+    cursor: hand;
+    
+}
+
+tr{
+    cursor: hand;
+}
+
+table{
+    border-bottom: dodgerblue;
+}
+
+.img{
+    position: absolute;
+    bottom: 510px;
+    right: 740px;
+}
+
+.topnav{
+    font-size: 12px;
+    font-weight: bold;
+    color:gray;
+  }

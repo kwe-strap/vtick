@@ -1,0 +1,6 @@
+<body>
+        <button type="button" class="btn btn-outline-light btn-lg bus"><a class="anchor" href="buses.html"><h6>BUSES AVAILABLE</h6></a></button><br><br>
+        <button type="button" class="btn btn-outline-light btn-lg book"><a class="anchor" href="booking.html"><h6>BOOKING</h6></a> </button><br><br></a>
+        <button type="button" class="btn btn-outline-light btn-lg seat"><a class="anchor" href="seat.html"><h6>SEAT NUMBER</h6></a></button><br><br>
+        <button type="button" class="btn btn-outline-light btn-lg pay"><a class="anchor" href="payment.html"><h6>PAYMENT</h6></a></button>    
+    </body>
